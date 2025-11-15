@@ -1,3 +1,4 @@
 # WebDev-demo
 This is my first git repositorty.
-Author - Sahil Veer
+<br>
+Author - Sahil Veer (WebDev)
